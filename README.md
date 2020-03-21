@@ -3,7 +3,7 @@
 
 ### To build nodes_modules:
 ```
-npm instal
+npm install
 ```
 
 ### Transpilate Typescript code and run the app:
